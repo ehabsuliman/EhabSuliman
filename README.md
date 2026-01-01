@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/ehabsuliman9" target="blank"><img src="https://img.shields.io/twitter/follow/ehabsuliman9?logo=twitter&style=for-the-badge" alt="ehabsuliman9" /></a> </p>
 
-- 🔭 I’m currently working on [ROADWATCH](https://github.com/ehabsuliman/ROADWATCH)
+- 🔭 I’m currently working on [Smart-News-Retrieval](https://github.com/ehabsuliman/Smart-News-Retrieval)
 
 - 🌱 I’m currently learning **Machine learning**
 
