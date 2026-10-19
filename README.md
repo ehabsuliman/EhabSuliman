@@ -1,28 +1,37 @@
 # Hey, I'm Ehab Suliman 👋
 
-### Artificial Intelligence | Machine Learning | Software Development
+### Artificial Intelligence Engineer | Machine Learning | Large Language Models
 
-I'm passionate about artificial intelligence and building technology-driven solutions. I enjoy exploring new ideas, learning modern technologies, and continuously improving my technical skills.
+I'm passionate about Artificial Intelligence, with a focus on machine learning, deep learning, and Large Language Models (LLMs). I enjoy exploring AI research, experimenting with models, and understanding how intelligent systems can solve real-world problems.
 
 ---
 
-### 🧠 Areas of Interest
+### Areas of Expertise & Interest
 
 - Artificial Intelligence & Machine Learning
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
 - Deep Learning
 - Computer Vision
-- Data Science
-- Software Development
-
-### 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,js,html,css,react,nodejs,git,github,linux,mysql,bash" alt="Technologies and tools" />
-</p>
+- Generative AI
 
 ---
 
-### 📊 GitHub Overview
+### Technologies & Tools
+
+**Programming:** Python
+
+**AI & Deep Learning:** PyTorch, Scikit-learn
+
+**LLMs & NLP:** Transformer Architectures, LLM Inference, Model Evaluation
+
+**Data Science:** NumPy, Pandas
+
+**Tools & Platforms:** Git, GitHub, Linux
+
+---
+
+### GitHub Overview
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ehabsuliman&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
@@ -31,15 +40,8 @@ I'm passionate about artificial intelligence and building technology-driven solu
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
-<p align="left">
-  <a href="https://github.com/ehabsuliman">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:ehab.n.suliman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[GitHub](https://github.com/ehabsuliman) · [Email](mailto:ehab.n.suliman@gmail.com)
 
-*Curious mind. Continuous learning. Building what's next.*
+*Exploring intelligence. Building with purpose.*
